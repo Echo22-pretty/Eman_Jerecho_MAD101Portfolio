@@ -1,0 +1,1 @@
+With this chapter, I somewhat understood the concept of the widget tree. Although I don’t fully grasp it yet, this chapter still helped me gain some background knowledge about the widget tree.
